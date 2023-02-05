@@ -16,3 +16,5 @@ https://dwm.suckless.org/ - Thanks to the suckless devs and creators of patches 
 
 **Contributing**
 You can of course contribute to this fork if you want, but please note this is my personal fork oof dwm so changes will only be accepted if I would actually use them.
+
+Repository: https://lab.vichava.dev/sebba/dwm
